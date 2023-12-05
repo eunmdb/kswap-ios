@@ -16,7 +16,10 @@ struct HomeBanner: View {
             }
             
         }
+      
+        
     }
+    
 }
 
 

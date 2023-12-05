@@ -15,7 +15,8 @@ struct NavBar: View {
                         Image(systemName: "magnifyingglass")
                         Text("Search")
                     }
-                LoggedOutPage()
+//                LoggedOutPage()
+                AccountPageLoggedIn()
                     .tabItem{
                         Image(systemName: "person")
                         Text("Account")

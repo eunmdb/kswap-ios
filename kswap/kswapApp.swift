@@ -1,10 +1,3 @@
-//
-//  kswapApp.swift
-//  kswap
-//
-//  Created by eun on 10/15/23.
-//
-
 import SwiftUI
 
 
